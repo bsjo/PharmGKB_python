@@ -1,0 +1,12 @@
+#PharmGKB python
+
+#At first, you need to install 'requests module of python'.
+#sudo pip install requests
+#PharmGKB data from PharmGKB
+#https://www.pharmgkb.org/downloads
+
+#Input : Variant and Clinical Annotations Data, Variants(PharmGKB)
+#Output : Parsed table
+#Execute : python PharmGKB.py
+
+#by BioinformaticsAndMe
